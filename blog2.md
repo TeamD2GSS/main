@@ -1,5 +1,5 @@
 ---
 layout: page
 title: Blog
-permalink: /
+permalink: /main/example2-content.html
 ---
