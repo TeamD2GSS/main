@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Mohit
-permalink: /2015/05/12/example-content.html
+permalink: /main/2015/05/12/example-content.html
 ---
 
